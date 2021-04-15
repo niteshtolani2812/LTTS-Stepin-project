@@ -68,7 +68,7 @@ The object of the game is to be the first player with 3
 marks in a row, where a row can be either vertical, horizontal, or
 diagonal. If all the cells become filled the game is a draw.
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/800px-Tic_tac_toe.svg.png width 100)
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/800px-Tic_tac_toe.svg.png)
 
 
 
