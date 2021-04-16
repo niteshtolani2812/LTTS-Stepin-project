@@ -20,4 +20,4 @@ Behaviour Diagram
 
 Game tree
 
-![image](
+![image](https://github.com/niteshtolani2812/LTTS-Stepin-project/blob/main/design/game%20tree.jpg)
