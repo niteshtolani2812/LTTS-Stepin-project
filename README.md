@@ -4,8 +4,6 @@ Tic-tac-toe (American English), noughts and crosses (Commonwealth English and Br
 
 |Build | Code Quality |  Unity |  [Git Inspector] (using github.io option) |
 |---------|-----------------|------------|---------------------------------------------|
-|  [![C/C++ CI](https://github.com/niteshtolani2812/LTTS-Stepin-project.git/c-build.yml/badge.svg)](https://github.com/Prajwal-M1804/C-Programming_MiniProject/actions/workflows/c-build.yml)       |    [![Code Quality - Static Code - Cppcheck](https://github.com/Prajwal-M1804/C-Programming_MiniProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Prajwal-M1804/C-Programming_MiniProject/actions/workflows/cppcheck.yml)             |            |       [![Contribution Check - Git Inspector](https://github.com/Prajwal-M1804/C-Programming_MiniProject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Prajwal-M1804/C-Programming_MiniProject/actions/workflows/gitinspector.yml)                                      |
-
 
 ## Folder Structure
 
