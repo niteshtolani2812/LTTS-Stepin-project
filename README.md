@@ -18,4 +18,4 @@ Tic-tac-toe (American English), noughts and crosses (Commonwealth English and Br
 
 |SF Id.  |	Name|	Features|	Issuess Raised|	Issues Resolved|	No Test Cases|	Test Case Pass|
 |--------|------|---------|---------------|----------------|---------------|----------------|
-|	260274	|Nitesh K|The game is played on a grid that's 3 squares by 3 squares.|	 No	|No|	--|	--|
+|	260274	|Nitesh K|The game is played on a grid that's 3 squares by 3 squares.|	 No	|No|	3|	3|
