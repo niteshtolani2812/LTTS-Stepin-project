@@ -1,10 +1,16 @@
 # DESIGN
 ## High Level design
 Use Case Diagram
-  ![image](https://github.com/niteshtolani2812/LTTS-Stepin-project/blob/main/design/usecase%20diagram.jpg)
+
+![image](https://github.com/niteshtolani2812/LTTS-Stepin-project/blob/main/design/usecase%20diagram.jpg)
 
 Flow Chart
-  ![image](https://github.com/niteshtolani2812/LTTS-Stepin-project/blob/main/design/Flowchart%20for%20Tic-Tac-Toe.png)
+
+![image](https://github.com/niteshtolani2812/LTTS-Stepin-project/blob/main/design/Flowchart%20for%20Tic-Tac-Toe.png)
 
 Behaviour Diagram
-  ![image](https://github.com/niteshtolani2812/LTTS-Stepin-project/blob/main/design/Behavioral%20Diagram.png)
+
+![image](https://github.com/niteshtolani2812/LTTS-Stepin-project/blob/main/design/Behavioral%20Diagram.png)
+
+State Diagram
+
